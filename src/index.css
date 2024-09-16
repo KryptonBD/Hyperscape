@@ -16,3 +16,7 @@
   font-family: "Poppins", sans-serif;
   color-scheme: dark;
 }
+
+.primary-gradient {
+  @apply bg-gradient-to-r from-orange-500 to-red-800;
+}

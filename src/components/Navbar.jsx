@@ -46,7 +46,7 @@ export const Navbar = () => {
             </a>
             <a
               href="#"
-              className="bg-gradient-to-r from-orange-500 to-orange-800 py-2 px-3 rounded-md"
+              className="primary-gradient py-2 px-3 rounded-md"
               aria-label="Create an account"
             >
               Create an account
