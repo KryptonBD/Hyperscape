@@ -37,7 +37,7 @@ Hyperscape is a virtual reality software platform focused on providing an intuit
 2. Navigate to the project directory:
 
    ```bash
-   cd hyperscape-landing-page
+   cd hyperscape
    ```
 
 3. Install dependencies:
