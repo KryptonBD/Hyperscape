@@ -6,10 +6,9 @@
 
 - [Overview](#overview)
 - [Technologies Used](#technologies-used)
+- [Screenshots](#screenshots)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Overview
 
@@ -22,6 +21,10 @@ Hyperscape is a virtual reality software platform focused on providing an intuit
 - **Vite** – For fast frontend tooling and bundling
 - **JavaScript/TypeScript** – Primary languages used
 - **HTML5 & CSS3** – For semantic web structure and styling
+
+## Screenshots
+![hyperscape_landing_page](https://github.com/user-attachments/assets/4c0380f8-b1f9-4c07-bdbd-4d8f5ccf7f45)
+
 
 ## Installation
 
